@@ -1,5 +1,5 @@
 {
-    "name": "mews/purifier",
+    "name": "veltix/purifier",
     "type": "package",
     "description": "Laravel HtmlPurifier Package",
     "keywords": [
